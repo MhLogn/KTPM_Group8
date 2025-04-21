@@ -1,6 +1,6 @@
 ## KTPM_GROUP8
-### Đề tài:
-#### THÀNH VIÊN CỦA NHÓM GỒM: 
+### - Đề tài:
+### - Thành viên trong nhóm gồm: 
 
 |     Họ và tên        | Mã sinh viên  |
 |--------------------- |-------------- |
